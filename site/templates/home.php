@@ -26,7 +26,7 @@
             <div class="groups-information groups-box private-feature">
                 <div class="title">About</div>
                 <div class="content">
-                    Sample Page is a sample page to demonstrate how Grou.ps pages look and feel like.
+                    DivulgaRed es la red social pensada exclusivamente para investigadores y divulgadores que quieren aliarse para acercar la ciencia a la sociedad. Una herramienta pensada para conectar, comunicar y colaborar.
                 </div>
             </div>
             <div class="groups-invitation groups-box private-feature">
